@@ -1,4 +1,4 @@
 # myfioriproject
 My First Fiori Project Application
 
-Test with BIP
+Test with BIP 222
