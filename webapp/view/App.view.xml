@@ -34,7 +34,6 @@
 										<Label text="{i18n>layoutFormCity}"/>
 										<Input value="{address>/City}"/>
 										<Label text="{i18n>layoutFormCountry}"/>
-										fsdaf
 										<Select>
 											<items>
 												<core:Item text="{i18n>layoutCountryGermany}"/>
